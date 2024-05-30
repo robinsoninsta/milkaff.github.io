@@ -12,5 +12,5 @@ Name | Millcoin
 Logo | [view](https://github.com/robinsoninsta/milkaff.github.io/blob/main/2024-05-30_09-35-15.png)
 Address | EQDw_oP39ODEtFFSuEn1CIA3-LLcR8_eRrwNfn8yRYifYLvF
 Symbol | MILL
-Website | [go to](https://bongacam.com/profile/milkaff-)
+Website | [go to](https://bongacams.com/profile/milkaff-)
 Social | [telegram](https://t.me/milkaff_bc) , [instargam](https://instagram.com/katya_kushaet_sushi)
